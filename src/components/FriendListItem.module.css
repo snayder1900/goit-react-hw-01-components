@@ -1,0 +1,23 @@
+.friend__item {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 0 5px 3px grey;
+  padding: 16px 32px;
+  column-gap: 8px;
+}
+
+.item__status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: red;
+}

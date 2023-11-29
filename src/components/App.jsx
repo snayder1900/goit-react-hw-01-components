@@ -1,10 +1,10 @@
 import user from '../json/user.json';
-import data from '../json/data.json';
-import transactions from '../json/transactions.json';
+// import data from '../json/data.json';
+// import transactions from '../json/transactions.json';
 import Profile from "./Profile.jsx";
-import Statistics from './Statistics.jsx';
-import FriendsList from './FriendList.jsx';
-import TransactionHistory from './TransactionHistory.jsx';
+// import Statistics from './Statistics.jsx';
+// import FriendsList from './FriendList.jsx';
+// import TransactionHistory from './TransactionHistory.jsx';
 
 
 
@@ -16,7 +16,7 @@ export const App = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
+        fontSize: 41,
         color: '#010101'
       }}
     >
